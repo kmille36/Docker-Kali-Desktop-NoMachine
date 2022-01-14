@@ -15,6 +15,8 @@
 
 ![image](https://user-images.githubusercontent.com/58414694/149538842-9f666319-2e89-410c-8573-51c1e65d3f03.png)
 
+![image](https://user-images.githubusercontent.com/58414694/149542250-7285160a-8bf5-4797-a471-fc4d314b9a9d.png)
+
  ```console  
 
 curl -sLkO https://is.gd/nomachinekalixfce4 ; bash nomachinekalixfce4
