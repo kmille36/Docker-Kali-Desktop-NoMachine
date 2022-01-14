@@ -1,5 +1,5 @@
-# Docker-Ubuntu-Desktop-NoMachine
-*Ubuntu Desktop on NoMachine*
+# Docker-Kali-Desktop-NoMachine
+*Kali Desktop on NoMachine*
 
 - Base on Kali-rolling
 
