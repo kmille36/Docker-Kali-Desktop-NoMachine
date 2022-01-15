@@ -25,6 +25,6 @@ curl -sLkO https://is.gd/nomachinekalixfce4 ; bash nomachinekalixfce4
 
 *FAQ: VM can't connect? Restart Cloud Shell then Re-run script.*
 
-*Main Repo: https://github.com/kmille36/Docker-Ubuntu-Desktop-NoMachine*
+*Main Repo: https://github.com/kmille36/Docker-Kali-Desktop-NoMachine*
 
 
