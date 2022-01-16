@@ -17,6 +17,10 @@
 
 ![image](https://user-images.githubusercontent.com/58414694/149542250-7285160a-8bf5-4797-a471-fc4d314b9a9d.png)
 
+*TIP: Enable Windows 10 Theme with kali-undercover command*
+
+![image](https://user-images.githubusercontent.com/58414694/149664946-909d5b98-4d2c-4578-b1b0-19db60fdb71c.png)
+
  ```console  
 
 curl -sLkO https://is.gd/nomachinekalixfce4 ; bash nomachinekalixfce4
